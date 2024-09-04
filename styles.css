@@ -1,0 +1,53 @@
+.tangerine-regular {
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-size: 2rem;
+    font-style: normal;
+}
+  
+  .tangerine-bold {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem;
+}
+
+.lusitana-regular {
+    font-family: "Lusitana", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+  .lusitana-bold {
+    font-family: "Lusitana", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.edu-au-vic-wa-nt-hand-edu{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+  
+.name-heading{
+    font-size: 20px;
+    font-weight: 600;
+    color: #fffcfc;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+.name{
+    padding-left: 2rem;
+    padding-top: 1rem;
+    font-family: Georgia, serif;
+}
+.btn-submit:hover{
+    background-color: #747474fc;
+}
+.card-style{
+    background-color: rgba(0, 0, 0, 0.5); border: none; color: rgb(157, 156, 156);
+}
